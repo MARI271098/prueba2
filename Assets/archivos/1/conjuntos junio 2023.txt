@@ -1,0 +1,107 @@
+CONJUNTOS DE DATOS ABIERTOS JUNIO 2023---ENVIADOS
+-------------------------------------
+QUIENES YA ENVIARON SU CORREO 
+- GCHYPC  // recibí D,C,R,O -- YA SE LIMPIO--ENVIADO
+- IDAP // recibi D,C,R,O -- YA SE LIMPIO--ENVIADO
+- SECATI // recibi D,C,R,O -- YA SE LIMPIO--ENVIADO
+- SEGOM // recibi D,C,R,O -- YA SE LIMPIO--ENVIADO
+- TM // recibi D,C,R,O -- YA SE LIMPIO--ENVIADO
+- IMPLAN recibi D,C,R,O -- YA SE LIMPIO--ENVIADO
+- IMJ // recibi O,R -- YA SE LIMPIO ------ pendiente
+- SBPC // recibi C,R,D,O -- YA SE LIMPIO--ENVIADO
+- SA // recibi D,R,O -- YA LIMPIO--ENVIADO 
+- PM D, R, C -- ya se limpo--ENVIADO
+- SEMA // recibi D,R,O,C -- ya se limpio -- ENVIADO
+- OOSLMP C,D,O ---- JANETH -- ENVIADO
+- SEMOVINFRA D,R,O -- YA ESTA LIMPIO -- JANETH -- ENVIADO
+- DIF // recibi D,R,C SIN OFICO AL CORREO -- YA SE LIMPIO 
+- SGDYU recibi--C,R,O-- YA SE LIMPIO- YA SE ENVIO 
+- SP C, D, R, SIN OFICIO AL CORREO -- YA SE LIMPIO, PENDIENTE POR FORMATOS GEOJSON ----ENVIADO
+- SIPSG // reibi D,R,O,C -- ENVIADO
+- SET-- D.C.R YA SE ENVIO 
+-- IMAC C, R ya se envio 
+-- IMD ya se envio 
+-- SSC  ya se envio --UN CONJUNTO falta
+-- GTMA ya se envio, falto un conjunto  
+
+------------------------
+- SECATI 
+- SEGOM
+- SBPC
+- IMPLAN
+- PM
+- SA
+- TM
+- OOSLP
+- SEMA
+- SEMOVINFRA
+- DIF
+- SGDYU
+- SSP
+- SPISG
+- SET
+- IMACP
+
+-------------
+- GCHYPC
+- IDAP
+
+
+
+-------------------------------
+FALTAN POR ENVIAR CONJUNTOS 
+
+-- CM 
+-- CCS 
+-- SM 
+
+
+-------------------------------------------
+- CM solo que envio un correo sin archivos 
+
+-----------------------------------
+NUEVOS CONJUTNOS 
+-SBPC - YA SE ENVIARON OBSERVACIONES AL ENLACE 
+
+
+-----------------------------------
+RECORD DE REUNIONES 
+-- GCHYPC // YA SE LIMPIO
+-- IDAP // YA SE LIMPIO
+-- SECATI// YA SE LIMPIO
+-- SEGOM// YA SE LIMPIO
+-- SA // YA SE LIMPIO
+-- TM // YA SE LIMPIO
+-- IMPLAN // YA SE LIMPIO
+-- IMJ // YA SE LIMPIO
+-- SBPC // YA SE LIMPIO
+-- SEMA // YA SE LIMPIO
+-- DIF // YA SE LIMPIO
+-- SP --YA SE LIMPIO
+- CR D,R,O-- LO ESTA LIMPINADO JANETH
+
+----------------------------------
+OBSERVACIONES QUE SE HICIERON EL MES DE MAYO PARA LOS ENLACES
+- SISG
+- DIF
+- CM
+
+el conjuntos de datos de asesorias de segundo en la columna de servicos ser ms espeificos 
+
+-----------------------------------
+DATASET DONDE HICE OBSERVACIONES A TI
+-- SECATI 
+-- GERENCIA
+-- IMPLAN 
+-- DIF
+
+ 
+
+DATASET DONDE HICE OBSERVACIONES A ENLACE 
+-- TM
+-- SA el conjunto restante lo envio en formato pdf, lo converti a excel editable 
+con un convertidor, ya lo limpie y genere borrador
+preguntar sí se le hace observación al enlace
+-- SET NOCHE DE MUSEOS NO COINCIDE CON SU DICCIONARIO DE DATOS 
+
+-------------------------------------
